@@ -1,0 +1,6 @@
+{
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "workbench.tree.indent": 22,
+    "workbench.tree.renderIndentGuides": "always"
+}

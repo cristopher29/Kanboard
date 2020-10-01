@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "kanboard-48b03": {
+      "hosting": {
+        "kanboard": [
+          "kanboard-48b03"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "kanboard-48b03"
+  }
+}
